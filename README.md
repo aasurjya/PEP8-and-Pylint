@@ -16,5 +16,6 @@ sudo apt install pylint
 
 Usage:
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/44926849/208947334-3314dd57-6c54-4cec-bf58-66ed8c631708.png)
+
 
