@@ -13,3 +13,8 @@ You can find the PEP-8 document by following this link: https://pep8.org/
 
 Installation:
 sudo apt install pylint
+
+Usage:
+
+![Uploading image.png…]()
+
